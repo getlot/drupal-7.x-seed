@@ -1,0 +1,63 @@
+[submodule "sites/all/modules/contrib/views"]
+	path = sites/all/modules/contrib/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/contrib/ctools"]
+	path = sites/all/modules/contrib/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/contrib/token"]
+	path = sites/all/modules/contrib/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/contrib/pathauto"]
+	path = sites/all/modules/contrib/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/contrib/libraries"]
+	path = sites/all/modules/contrib/libraries
+	url = http://git.drupal.org/project/libraries.git
+[submodule "sites/all/modules/contrib/ckeditor"]
+	path = sites/all/modules/contrib/ckeditor
+	url = http://git.drupal.org/project/ckeditor.git
+[submodule "sites/all/modules/contrib/jquery_update"]
+	path = sites/all/modules/contrib/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+[submodule "sites/all/modules/contrib/rules"]
+	path = sites/all/modules/contrib/rules
+	url = http://git.drupal.org/project/rules.git
+[submodule "sites/all/modules/contrib/xmlsitemap"]
+	path = sites/all/modules/contrib/xmlsitemap
+	url = http://git.drupal.org/project/xmlsitemap.git
+[submodule "sites/all/modules/contrib/features"]
+	path = sites/all/modules/contrib/features
+	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/contrib/devel"]
+	path = sites/all/modules/contrib/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/contrib/transliteration"]
+	path = sites/all/modules/contrib/transliteration
+	url = http://git.drupal.org/project/transliteration.git
+[submodule "sites/all/modules/contrib/l10n_update"]
+	path = sites/all/modules/contrib/l10n_update
+	url = http://git.drupal.org/project/l10n_update.git
+[submodule "sites/all/modules/contrib/globalredirect"]
+	path = sites/all/modules/contrib/globalredirect
+	url = http://git.drupal.org/project/globalredirect.git
+[submodule "sites/all/modules/contrib/advanced_help"]
+	path = sites/all/modules/contrib/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
+[submodule "sites/all/modules/contrib/smtp"]
+	path = sites/all/modules/contrib/smtp
+	url = http://git.drupal.org/project/smtp.git
+[submodule "sites/all/modules/contrib/entity"]
+	path = sites/all/modules/contrib/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/contrib/entityreference"]
+	path = sites/all/modules/contrib/entityreference
+	url = http://git.drupal.org/project/entityreference.git
+[submodule "sites/all/modules/contrib/link"]
+	path = sites/all/modules/contrib/link
+	url = http://git.drupal.org/project/link.git
+[submodule "sites/all/modules/contrib/simpletest"]
+	path = sites/all/modules/contrib/simpletest
+	url = http://git.drupal.org/project/simpletest.git
+[submodule "sites/all/modules/contrib/services"]
+	path = sites/all/modules/contrib/services
+	url = http://git.drupal.org/project/services.git
