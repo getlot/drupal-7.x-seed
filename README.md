@@ -37,3 +37,9 @@ git pull
 git submodule update --init
 drush updatedb
 drush cc all
+
+
+remove submodule
+git submodule deinit asubmodule
+git rm asubmodule
+rm -rf .git/modules/asubmodule
