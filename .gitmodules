@@ -52,12 +52,12 @@
 [submodule "sites/all/modules/contrib/link"]
 	path = sites/all/modules/contrib/link
 	url = http://git.drupal.org/project/link.git
-[submodule "sites/all/modules/contrib/simpletest"]
-	path = sites/all/modules/contrib/simpletest
-	url = http://git.drupal.org/project/simpletest.git
 [submodule "sites/all/modules/contrib/services"]
 	path = sites/all/modules/contrib/services
 	url = http://git.drupal.org/project/services.git
 [submodule "sites/all/modules/contrib/oauth"]
 	path = sites/all/modules/contrib/oauth
 	url = git://git.drupal.org/project/oauth.git
+[submodule "sites/all/libraries/spyc"]
+	path = sites/all/libraries/spyc
+	url = git@github.com:mustangostang/spyc.git
