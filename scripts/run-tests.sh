@@ -18,7 +18,8 @@ if ($args['help'] || $count == 0) {
 
 if ($args['execute-test']) {
   // Masquerade as Apache for running tests.
-  simpletest_script_init("Apache");
+  //simpletest_script_init("Apache");
+  simpletest_script_init("Nginx");
   simpletest_script_run_one_test($args['test-id'], $args['execute-test']);
 }
 else {
