@@ -67,3 +67,6 @@
 [submodule "sites/all/libraries/glip"]
 	path = sites/all/libraries/glip
 	url = git@github.com:halstead/glip.git
+[submodule "sites/all/modules/contrib/libraries"]
+	path = sites/all/modules/contrib/libraries
+	url = git://git.drupal.org/project/libraries.git
