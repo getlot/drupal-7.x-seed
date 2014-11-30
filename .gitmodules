@@ -61,3 +61,9 @@
 [submodule "sites/all/libraries/spyc"]
 	path = sites/all/libraries/spyc
 	url = git@github.com:mustangostang/spyc.git
+[submodule "sites/all/modules/custom/git_deploy"]
+	path = sites/all/modules/custom/git_deploy
+	url = git@github.com:getlot/git_deploy.git
+[submodule "sites/all/libraries/glip"]
+	path = sites/all/libraries/glip
+	url = git@github.com:halstead/glip.git
