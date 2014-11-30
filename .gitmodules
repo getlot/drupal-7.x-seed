@@ -10,9 +10,6 @@
 [submodule "sites/all/modules/contrib/pathauto"]
 	path = sites/all/modules/contrib/pathauto
 	url = http://git.drupal.org/project/pathauto.git
-[submodule "sites/all/modules/contrib/libraries"]
-	path = sites/all/modules/contrib/libraries
-	url = http://git.drupal.org/project/libraries.git
 [submodule "sites/all/modules/contrib/ckeditor"]
 	path = sites/all/modules/contrib/ckeditor
 	url = http://git.drupal.org/project/ckeditor.git
