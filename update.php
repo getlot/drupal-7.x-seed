@@ -409,8 +409,13 @@ if (empty($op) && update_access_allowed()) {
   // Load module basics.
   include_once DRUPAL_ROOT . '/includes/module.inc';
   $module_list['system']['filename'] = 'modules/system/system.module';
-  module_list(TRUE, FALSE, FALSE, $module_list);
-  drupal_load('module', 'system');
+  $module_list['libraries']['filename'] = 'sites/all/modules/contrib/libraries/libraries.module';
+  $module_list['git_deploy']['filename'] = 'sites/all/modules/contrib/git_deploy/git_deploy.module';
+  foreach (module_list(TRUE, FALSE, FALSE, $module_list) as $module) {
+    drupal_load('module', $module);
+  }
+  //module_list(TRUE, FALSE, FALSE, $module_list);
+  //drupal_load('module', 'system');
 
   // Reset the module_implements() cache so that any new hook implementations
   // in updated code are picked up.
