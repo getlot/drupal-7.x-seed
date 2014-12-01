@@ -22,9 +22,6 @@
 [submodule "sites/all/modules/contrib/xmlsitemap"]
 	path = sites/all/modules/contrib/xmlsitemap
 	url = http://git.drupal.org/project/xmlsitemap.git
-[submodule "sites/all/modules/contrib/features"]
-	path = sites/all/modules/contrib/features
-	url = http://git.drupal.org/project/features.git
 [submodule "sites/all/modules/contrib/devel"]
 	path = sites/all/modules/contrib/devel
 	url = http://git.drupal.org/project/devel.git
@@ -34,9 +31,6 @@
 [submodule "sites/all/modules/contrib/l10n_update"]
 	path = sites/all/modules/contrib/l10n_update
 	url = http://git.drupal.org/project/l10n_update.git
-[submodule "sites/all/modules/contrib/globalredirect"]
-	path = sites/all/modules/contrib/globalredirect
-	url = http://git.drupal.org/project/globalredirect.git
 [submodule "sites/all/modules/contrib/advanced_help"]
 	path = sites/all/modules/contrib/advanced_help
 	url = http://git.drupal.org/project/advanced_help.git
